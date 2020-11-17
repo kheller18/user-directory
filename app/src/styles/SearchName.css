@@ -1,0 +1,12 @@
+.searchbox {
+  border: 1px solid #101D42;
+}
+
+.searchbox:hover {
+  background-color: #101D42;
+  color: #ffffff;
+}
+
+.search-label {
+  margin-bottom: 10px;
+}
